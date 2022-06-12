@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Alfred Armand's profile</title>
+
+	<script src="https://kit.fontawesome.com/acf580dab0.js" crossorigin="anonymous"></script>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,wght@1,100&display=swap" rel="stylesheet">
+
+	<meta name="description" content="This is the profile of Alfred">
+	<meta charset="utf-8">
+
+	<link href="style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+	<div class="container">
+		<div class="card-white" id="introduction">
+			<h1>Mon Profil</h1>
+			<img src=images/pdp.jpg class="img-circle" width="130px" alt="Alfred Armand">
+			<p>
+			Bonjour, je m'appelle Alfred Armand, j'ai 18 ans. Je suis en école de commerce à l'Ieseg School of Management. Je vais vous présenter mes centres d'intérêt sur cette page : l'automobile et la musique.
+			</p>
+		</div>
+
+		<div class="card-white">
+			<h2>L'automobile</h2>
+			<p>
+				L'automobile me passionne particulièrement ! Je suis notamment un grand fan de Maserati car j'ai toujours été fasciné par les voitures italienne, surtout les voitures de collection.
+			</p>
+			<img src="images/maserati.jpg" style="width: 490px;">
+			<p>
+				Par exemple, ce modèle représente la passion automobile italienne et mon grand-père avait la même. Ces deux points me donnent envie de l'acquérir également.
+			</p>
+		</div>
+
+		<div class="card-white">
+			<h2>La musique</h2>
+			<p>
+				De manière générale, j'aime la musique notamment le reggaye et le classique.
+			</p>
+			<p>
+				Mais plus précisèment, je préfère jouer de la musique. En effet, je fais de la trompette depuis 12 ans. C'est un instrument que j'affectionne car il me permet de participer à des concerts ou encore de pouvoir jouer au sein d'un orchestre.
+			</p>
+
+			<a href="https://www.youtube.com/watch?v=fOqXfu8BJfE" class="btn-blue" target="_blank">Mon morceau préfèré</a>
+		</div>
+
+		<div class="card-white">
+			<h2>Follow me</h2>
+			<ul class="list-inline">
+				<li>
+					<a href="https://www.linkedin.com/in/alfred-armand-77b803220/" target="_blank">
+						<i class="fa-brands fa-linkedin-in"></i>
+					</a>
+				</li>
+				<li>
+					<a href = "https://www.facebook.com/alfred.armand.16/" target="_blank">
+						<i class="fa-brands fa-facebook-f"></i>
+					</a>
+				<li>
+					<a href="https://www.instagram.com/alfredarmand/?hl=fr" target="_blank">
+						<i class="fa-brands fa-instagram"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+</body>
+
+</html>
